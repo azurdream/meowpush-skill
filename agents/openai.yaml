@@ -1,0 +1,7 @@
+interface:
+  display_name: "MeowPush"
+  short_description: "Send notifications now or when your task finishes"
+  default_prompt: "Use $meowpush to notify me when this task is complete."
+
+policy:
+  allow_implicit_invocation: true
